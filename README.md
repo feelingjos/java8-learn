@@ -3,35 +3,25 @@
 #### 项目介绍
 jdk8学习dome
 
-#### 软件架构
-软件架构说明
+#### lambda
 
+1. [初识lambda](https://www.feeljblog.com/2018/07/22/JDK8%E6%96%B0%E7%89%B9%E6%80%A7-Lambda-1/)
+2. [lambda基础语法](https://www.feeljblog.com/2018/07/22/JDK8%E6%96%B0%E7%89%B9%E6%80%A7-Lambda-2/)
+3. [lambda应用](https://www.feeljblog.com/2018/07/22/JDK8%E6%96%B0%E7%89%B9%E6%80%A7-Lambda-3/)
+4. [lambda原生接口应用](https://www.feeljblog.com/2018/07/22/JDK8%E6%96%B0%E7%89%B9%E6%80%A7-Lambda-4/)
+5. [方法引用与构造器引用](https://www.feeljblog.com/2018/07/22/JDK8%E6%96%B0%E7%89%B9%E6%80%A7-Lambda-5/)
 
-#### 安装教程
+#### streamAPI
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. [Stream API](https://www.feeljblog.com/2018/07/22/JDK8%E6%96%B0%E7%89%B9%E6%80%A7-Stream%20API/) 
+2. [Stream API 并行流与串行流](https://www.feeljblog.com/2018/07/22/JDK8%E6%96%B0%E7%89%B9%E6%80%A7-Stream%20API%20-%20%E5%B9%B6%E8%A1%8C%E6%B5%81%E5%92%8C%E4%B8%B2%E8%A1%8C%E6%B5%81/)
+3. [接口默认方法](https://www.feeljblog.com/2018/07/22/JDK8%E6%96%B0%E7%89%B9%E6%80%A7-%E6%8E%A5%E5%8F%A3%E9%BB%98%E8%AE%A4%E6%96%B9%E6%B3%95/)
 
-#### 使用说明
+#### Optional
+1. [Optional使用](https://www.feeljblog.com/2018/07/22/JDK8%E6%96%B0%E7%89%B9%E6%80%A7-Optional%E5%AE%B9%E5%99%A8%E7%B1%BB/)
 
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [http://git.mydoc.io/](http://git.mydoc.io/)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 其他
+1.  [全新日期api](https://www.feeljblog.com/2018/07/22/JDK8%E6%96%B0%E7%89%B9%E6%80%A7-%E5%85%A8%E6%96%B0%E6%97%A5%E6%9C%9Fapi/)
+2.  [注解增强](https://www.feeljblog.com/2018/07/22/JDK8%E6%96%B0%E7%89%B9%E6%80%A7-%E6%B3%A8%E8%A7%A3%E5%A2%9E%E5%BC%BA/)
+3. ...
+4.  持续更新
